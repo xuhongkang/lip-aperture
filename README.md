@@ -21,4 +21,3 @@ Upon mouth movement, the AR filter detects tongue appearance and informs the ins
 
 
 * What is Snap Camera? Snap Camera FAQ, https://support.snapchat.com/en-US/article/snap-camera-faq
-![image](https://user-images.githubusercontent.com/71009614/167207214-e5d01d2a-aa7a-47e5-9579-b25483af527d.png)
