@@ -8,6 +8,8 @@ Utilizes existing software such as Snapchat’s Snap AR Snap Camera and Lens Bui
 ## Snap Camera
 Snap Camera is a free desktop platform that integrates thousands of lenses, including classics from Snapchat and fresh designs from lens creators* with popular streaming and video conferencing platforms, such as Zoom and Twitch. Since these platforms are not application scenarios of complex education-assisting AR filters, Snap Camera can bridge this gap by granting access to custom lenses. Snap Camera provides a plug-in, a virtual camera which enables us to apply any filter. Using Lens Builder, also made under Snap AR by Snapchat, we can create, publish and share tailored AR filters that can then be utilized via Snap Camera and displayed real-time on Zoom.
 
+* What is Snap Camera? Snap Camera FAQ, https://support.snapchat.com/en-US/article/snap-camera-faq
+
 ## Installation & Setup
 After installing the software, right-click the icon and choose the “run as administrator” option. Find the custom “Face Landmarks” filter in the Snap Camera Workshop, either via keywords or through inserting the Lens ID in the search bar. Double click on the target lens to load it to Snap Camera. Back in the video conferencing app, open the camera with the option “virtual camera” and ensure that your face is positioned vertically in the center of the zoomed camera.
 
@@ -19,9 +21,3 @@ Lenses were designed to apply two major features: The implementation of an AR fi
 A single, mono-colored, opaque 3d face-mesh covers the entirety of the face to improve teaching efficiency. This feature was introduced with the notion that taking away distracting and non-course related facial attributes could enhance student performance. However, eye-contact, and other types of non-verbal communication still strongly influence virtual education.  AR filters allow for the satisfaction of both objectives, retaining eye contact and dynamic facial movement, while filtering individual differences in facial characteristics.
 
 Upon mouth movement, the AR filter detects tongue appearance and informs the instructor by displaying a bright colored dot anchored in its place. The opacity of the dot is decided by the distance between face landmarks on the upper and lower lip. Interview with an associate professor at SUFE (Shanghai University of Finance and Economics) made it clear that tongue detection can greatly facilitate pronounciation training for ESL learners. One application is for differentiation between the "minimal-pair" words "Sink" and "Think", where one's pronounciation exposes the tongue while results for the other aren't apparent. This filter can successfully detect this, using an dot with varying opacity to account for distance between boundary values.
-
-
-
-
-
-* What is Snap Camera? Snap Camera FAQ, https://support.snapchat.com/en-US/article/snap-camera-faq
