@@ -1,6 +1,6 @@
 # Lip-Aperture
 
-### Author: Hongkang Xu
+### Developer: Hongkang Xu
 
 ## Description:
 Utilizes existing software such as Snapchat’s Snap AR Snap Camera and Lens Builder to create a Video Conferencing Plugin using AR filters to enhance university ESL pronunciation training. Annotates face landmarks around lip area and detects tongue appearence to assist teaching. 
